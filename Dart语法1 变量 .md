@@ -91,3 +91,10 @@ Dart 支持以下的内建类型
 - Rune(用于在字符串中表示Unicode字符)
 - Symbol
 
+### Number
+Dart的Number有两种类型 
+- int
+整数值不大于64位
+- double 
+64位（双精度）浮点数 
+int double都是num的亚类型   num类型包括基本运算 + - / * 以及 abs() ceil() floor()等函数方法 
